@@ -1,0 +1,25 @@
+#calculator-box {
+  width: 300px;
+  background-color: brown;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+padding: 20px;
+  justify-content: center;
+  margin: 100px auto;
+  gap: 10px;
+}
+
+.btn {
+  font-size: 20px;
+  padding: 22px;
+  margin: 2px;
+}
+
+#display {
+  margin-bottom: 10px;
+font-size: 18px;
+  padding: 20px;
+  width: 90%;
+}
